@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ltjnzM6cUSgJsT1tNT6XXW9K7L53JFf4ctxPKpWyt+nopHlvg/XzxuSPxKsmxX5cYNyrzc5sXs9/7N9OKBi1GQ==",
+  "dgSpecHash": "Oo88E3WGG7HfdTKJD8fatcKGDcgnJwFnpdLzstZU8KzEfvQydzqm6ZVLx/EzsTLLLIIagjwg4DnbyTue0ETfBg==",
   "success": true,
-  "projectFilePath": "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

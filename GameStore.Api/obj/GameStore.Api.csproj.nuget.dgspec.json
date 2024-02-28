@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj": {}
+    "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj": {
+    "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\obj\\",
+        "outputPath": "d:\\2024 project\\dotnetcore-crash-course\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
